@@ -99,12 +99,29 @@ get_header(); ?>
        <?php if(!isset($_POST['submit']) || $email_sent == false) { // if form NOT submitted or unsuccessfully submitted ?>
        
             <?php if(!isset($_POST['submit'])) { // if form NOT submitted ?>
+                            
+                <!-- CUSTOMIZATION BART TO DISPLAY PAGE CONTENT -->
             
-                <p><?php echo $template_meta['contact_default_msg']; ?></p>  
-            
+	            <?php if( post_password_required() ) { // if password protected ?> 
+	   
+		            <?php the_content(); // used to display password form ?>
+	        
+		        <?php } else { // if NOT password protected ?> 
+	        
+			    <?php while ( have_posts() ) : the_post(); // Default Loop Starts Here  ?>
+	        
+					<?php the_content(); ?>
+	        
+				<?php endwhile; // End the loop. Whew. ?>
+	
+				<?php } // finish checking password protection ?>  
+				<!-- END OF CUSTOMIZATION -->
+	            <p><?php echo $template_meta['contact_default_msg']; ?></p>  
+
             <?php } ?>
                       
-            <!-- Contact Form starts here -->
+			<!-- Contact Form starts here -->
+
             <form id="contact_form" method="post" action="<?php echo get_permalink(); ?>" data-req-name="<?php echo $req_name; ?>" data-req-email="<?php echo $req_email; ?>" data-req-msg="<?php echo $req_msg; ?>">
             
                 <p>
@@ -138,7 +155,7 @@ get_header(); ?>
                 
     </section>
     
-	<?php get_sidebar(); ?>
+	<?php //get_sidebar(); ?>
     <!-- Page Content ends here -->
 
 <?php get_footer(); ?>
