@@ -1,0 +1,1603 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Picasso\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-05 02:40+0500\n"
+"PO-Revision-Date: 2012-08-05 02:40+0500\n"
+"Last-Translator: Muhammad Faisal <muhammad.faisal.79c2@gmail.com>\n"
+"Language-Team: MsTrends <mstrends.79c2@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7
+msgid "Apologies, but no results were found for the requested archive. <br /> Perhaps searching will help find a related post."
+msgstr ""
+
+#: archive.php:23
+#: header.php:392
+#: search.php:23
+#: template-blog.php:89
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:24
+#: search.php:24
+#: template-blog.php:90
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: archive.php:69
+#: search.php:69
+#: template-blog.php:278
+#: template-blog.php:282
+msgid "Read More"
+msgstr ""
+
+#: comments.php:11
+msgid "This entry is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are now closed for this entry."
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:87
+#: template-contact.php:113
+msgid "Name"
+msgstr ""
+
+#: comments.php:93
+msgid "Email"
+msgstr ""
+
+#: comments.php:99
+msgid "Website"
+msgstr ""
+
+#: comments.php:106
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:107
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:68
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:70
+msgid "This sidebar would only be shown on high resolution screen (e.g desktop computer)"
+msgstr ""
+
+#: functions.php:79
+msgid "Footer (High Resolution)"
+msgstr ""
+
+#: functions.php:81
+msgid "This footer widget area would only be shown on high resolution screen (e.g desktop computer)"
+msgstr ""
+
+#: functions.php:90
+msgid "Footer (Low Resolution)"
+msgstr ""
+
+#: functions.php:92
+msgid "This footer widget area would only be shown on low resolution screen (e.g mobile, tablet)"
+msgstr ""
+
+#: functions.php:233
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:233
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:412
+msgid "Comments"
+msgstr ""
+
+#: functions.php:448
+msgid "Pages"
+msgstr ""
+
+#: functions.php:470
+msgid "Apologies, but this content is password protected. <br /> Please enter password and hit enter to access the content."
+msgstr ""
+
+#: functions.php:733
+#: header.php:388
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:734
+msgid "Project"
+msgstr ""
+
+#: header.php:388
+#: header.php:390
+msgid "(Single Entry)"
+msgstr ""
+
+#: header.php:390
+msgid "Blog"
+msgstr ""
+
+#: header.php:392
+msgid "(Error 404)"
+msgstr ""
+
+#: header.php:394
+msgid "Search"
+msgstr ""
+
+#: header.php:396
+msgid "Category"
+msgstr ""
+
+#: header.php:398
+msgid "Author"
+msgstr ""
+
+#: header.php:400
+msgid "Archive"
+msgstr ""
+
+#: header.php:402
+msgid "Tag"
+msgstr ""
+
+#: options.php:32
+msgid "Image"
+msgstr ""
+
+#: options.php:33
+msgid "Video"
+msgstr ""
+
+#: options.php:38
+#: options.php:50
+msgid "None"
+msgstr ""
+
+#: options.php:39
+msgid "Fade"
+msgstr ""
+
+#: options.php:40
+msgid "Slide Top"
+msgstr ""
+
+#: options.php:41
+msgid "Slide Right"
+msgstr ""
+
+#: options.php:42
+msgid "Slide Bottom"
+msgstr ""
+
+#: options.php:43
+msgid "Slide Left"
+msgstr ""
+
+#: options.php:44
+msgid "Carousel Right"
+msgstr ""
+
+#: options.php:45
+msgid "Carousel Left"
+msgstr ""
+
+#: options.php:51
+msgid "Style # 1"
+msgstr ""
+
+#: options.php:52
+msgid "Style # 2"
+msgstr ""
+
+#: options.php:53
+msgid "Style # 3"
+msgstr ""
+
+#: options.php:54
+msgid "Style # 4"
+msgstr ""
+
+#: options.php:55
+msgid "Style # 5"
+msgstr ""
+
+#: options.php:56
+msgid "Style # 6"
+msgstr ""
+
+#: options.php:57
+msgid "Style # 7"
+msgstr ""
+
+#: options.php:58
+msgid "Style # 8"
+msgstr ""
+
+#: options.php:59
+msgid "Style # 9"
+msgstr ""
+
+#: options.php:60
+msgid "Style # 10"
+msgstr ""
+
+#: options.php:61
+msgid "Style # 11"
+msgstr ""
+
+#: options.php:62
+msgid "Style # 12"
+msgstr ""
+
+#: options.php:63
+msgid "Style # 13"
+msgstr ""
+
+#: options.php:64
+msgid "Style # 14"
+msgstr ""
+
+#: options.php:69
+msgid "Never Crop BG Images"
+msgstr ""
+
+#: options.php:70
+msgid "Stretch BG Image to Width"
+msgstr ""
+
+#: options.php:71
+msgid "Stretch BG Image to Height"
+msgstr ""
+
+#: options.php:81
+#: options.php:96
+msgid "Disable Autoplay"
+msgstr ""
+
+#: options.php:82
+#: options.php:97
+msgid "Disable Loop"
+msgstr ""
+
+#: options.php:83
+msgid "Disable Audio"
+msgstr ""
+
+#: options.php:95
+msgid "Enable Audio"
+msgstr ""
+
+#: options.php:106
+msgid "Custom"
+msgstr ""
+
+#: options.php:107
+msgid "Green"
+msgstr ""
+
+#: options.php:108
+msgid "Blue"
+msgstr ""
+
+#: options.php:109
+msgid "Red"
+msgstr ""
+
+#: options.php:110
+msgid "Brown"
+msgstr ""
+
+#: options.php:162
+msgid "General"
+msgstr ""
+
+#: options.php:166
+msgid "Site Image Logo"
+msgstr ""
+
+#: options.php:167
+msgid "Upload a logo for your theme, or specify the image address of your online logo. (http://example.com/logo.png)"
+msgstr ""
+
+#: options.php:173
+msgid "Logo X-Offset"
+msgstr ""
+
+#: options.php:174
+msgid "Enter left & right margin of logo from container"
+msgstr ""
+
+#: options.php:181
+msgid "Logo Y-Offset"
+msgstr ""
+
+#: options.php:182
+msgid "Enter top & bottom margin of logo from container"
+msgstr ""
+
+#: options.php:189
+msgid "Admin Login Logo"
+msgstr ""
+
+#: options.php:190
+msgid "Upload a logo for your theme admin login panel, or specify the image address of your online logo. (http://example.com/logo.png)"
+msgstr ""
+
+#: options.php:196
+msgid "Custom Favicon"
+msgstr ""
+
+#: options.php:197
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: options.php:203
+msgid "Image Resizing"
+msgstr ""
+
+#: options.php:204
+msgid "Disable Image Resizing"
+msgstr ""
+
+#: options.php:210
+msgid "Date Meta"
+msgstr ""
+
+#: options.php:211
+msgid "Disable Date Meta"
+msgstr ""
+
+#: options.php:217
+msgid "Blog Meta"
+msgstr ""
+
+#: options.php:218
+msgid "Disable Blog Meta"
+msgstr ""
+
+#: options.php:224
+msgid "Footer Scripts"
+msgstr ""
+
+#: options.php:225
+msgid "Enter javascript code which will be inserted in wordpress footer"
+msgstr ""
+
+#: options.php:231
+msgid "Copyright Text"
+msgstr ""
+
+#: options.php:232
+msgid "Enter the text you would like to display in the footer of your site"
+msgstr ""
+
+#: options.php:238
+msgid "Social Profiles"
+msgstr ""
+
+#: options.php:242
+msgid "Flickr Profile"
+msgstr ""
+
+#: options.php:243
+#: options.php:250
+#: options.php:257
+#: options.php:265
+#: options.php:272
+#: options.php:279
+#: options.php:286
+#: options.php:294
+#: options.php:301
+#: options.php:308
+#: options.php:315
+#: options.php:322
+#: options.php:329
+#: options.php:336
+msgid "Enter url of your profile."
+msgstr ""
+
+#: options.php:249
+msgid "Twitter Profile"
+msgstr ""
+
+#: options.php:256
+msgid "Facebook Profile"
+msgstr ""
+
+#: options.php:264
+msgid "Dribbble Profile"
+msgstr ""
+
+#: options.php:271
+msgid "Skype Profile"
+msgstr ""
+
+#: options.php:278
+msgid "Youtube Profile"
+msgstr ""
+
+#: options.php:285
+msgid "Vimeo Profile"
+msgstr ""
+
+#: options.php:293
+msgid "Linkedin Profile"
+msgstr ""
+
+#: options.php:300
+msgid "Last FM Profile"
+msgstr ""
+
+#: options.php:307
+msgid "Deviant Art Profile"
+msgstr ""
+
+#: options.php:314
+msgid "Picasa Profile"
+msgstr ""
+
+#: options.php:321
+msgid "My Space Profile"
+msgstr ""
+
+#: options.php:328
+msgid "Google Plus Profile"
+msgstr ""
+
+#: options.php:335
+msgid "Pinterest Profile"
+msgstr ""
+
+#: options.php:342
+msgid "RSS Url"
+msgstr ""
+
+#: options.php:343
+msgid "Enter url of your RSS."
+msgstr ""
+
+#: options.php:351
+msgid "Background"
+msgstr ""
+
+#: options.php:355
+msgid "Global Background Type"
+msgstr ""
+
+#: options.php:356
+msgid "Select slideshow transition animation for background slideshow"
+msgstr ""
+
+#: options.php:364
+msgid "Default BG Image - Url"
+msgstr ""
+
+#: options.php:365
+msgid "Enter default url for your default Image background."
+msgstr ""
+
+#: options.php:370
+msgid "Default BG Image - Caption"
+msgstr ""
+
+#: options.php:371
+msgid "Enter default caption for your default Image background."
+msgstr ""
+
+#: options.php:378
+msgid "Slideshow Transition"
+msgstr ""
+
+#: options.php:379
+msgid "Select slideshow transition anumation for background slideshow"
+msgstr ""
+
+#: options.php:387
+msgid "Transition Speed"
+msgstr ""
+
+#: options.php:388
+msgid "Enter default animation speed in milli seconds for your slideshow background"
+msgstr ""
+
+#: options.php:395
+msgid "Slide Interval"
+msgstr ""
+
+#: options.php:396
+msgid "Enter backround images timeout in milli seconds after which they will be changed"
+msgstr ""
+
+#: options.php:403
+msgid "BG Image Stretching"
+msgstr ""
+
+#: options.php:410
+msgid "Default Video Poster - Url"
+msgstr ""
+
+#: options.php:411
+msgid "Enter url for your video background image poster."
+msgstr ""
+
+#: options.php:416
+msgid "Default BG Mp4 Video - Url"
+msgstr ""
+
+#: options.php:417
+msgid "Enter url for your mp4 video background."
+msgstr ""
+
+#: options.php:422
+msgid "Default BG Ogv Video - Url"
+msgstr ""
+
+#: options.php:423
+msgid "Enter url for your ogv video background."
+msgstr ""
+
+#: options.php:428
+msgid "Default BG Webm Video - Url"
+msgstr ""
+
+#: options.php:429
+msgid "Enter url for your webm video background."
+msgstr ""
+
+#: options.php:434
+msgid "Default BG Video - Caption"
+msgstr ""
+
+#: options.php:435
+msgid "Enter default caption for your default video background."
+msgstr ""
+
+#: options.php:442
+msgid "BG Video Configuration"
+msgstr ""
+
+#: options.php:449
+msgid "Default BG Mp3 Audio - Url"
+msgstr ""
+
+#: options.php:450
+msgid "Enter default url for your mp3 audio background."
+msgstr ""
+
+#: options.php:455
+msgid "Default BG Oga Audio - Url"
+msgstr ""
+
+#: options.php:456
+msgid "Enter default url for your oga audio background."
+msgstr ""
+
+#: options.php:461
+msgid "BG Audio Configuration"
+msgstr ""
+
+#: options.php:469
+msgid "Style & Typography"
+msgstr ""
+
+#: options.php:473
+msgid "Predefined Skins"
+msgstr ""
+
+#: options.php:474
+msgid "Select skin color for theme from predefined list"
+msgstr ""
+
+#: options.php:482
+msgid "Skin Color"
+msgstr ""
+
+#: options.php:483
+msgid "Select skin color for theme"
+msgstr ""
+
+#: options.php:490
+msgid "Google Font Name"
+msgstr ""
+
+#: options.php:491
+msgid "Enter name of the font from Google which you want to use"
+msgstr ""
+
+#: options.php:498
+msgid "Google Font Weight"
+msgstr ""
+
+#: options.php:499
+msgid "Enter numeric value of font weight(s) which u want to use (usually 400)"
+msgstr ""
+
+#: options.php:506
+msgid "Google Font Subsets"
+msgstr ""
+
+#: options.php:507
+msgid "Enter comma seperated values of font subset(s) which u want to use"
+msgstr ""
+
+#: options.php:514
+msgid "Background Overlay Style"
+msgstr ""
+
+#: options.php:515
+msgid "Select background pattern overlay style"
+msgstr ""
+
+#: options.php:523
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: options.php:524
+msgid "Enter opacity value betweeb 1 to 100 for your site background overlay."
+msgstr ""
+
+#: options.php:531
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:532
+msgid "Quickly add some CSS to your theme by adding it to this block"
+msgstr ""
+
+#: searchform.php:9
+msgid "Type and hit go ..."
+msgstr ""
+
+#: searchform.php:11
+msgid "Go"
+msgstr ""
+
+#: single-ms_portfolio.php:107
+msgid "Visit Site"
+msgstr ""
+
+#: single-ms_portfolio.php:143
+msgid "Similiar Projects"
+msgstr ""
+
+#: single-ms_portfolio.php:144
+msgid "If you like above project, you might also like some similiar project below"
+msgstr ""
+
+#: template-contact.php:112
+#: template-contact.php:126
+msgid "Required"
+msgstr ""
+
+#: template-contact.php:119
+msgid "Invalid!"
+msgstr ""
+
+#: template-contact.php:120
+msgid "E-Mail"
+msgstr ""
+
+#: template-contact.php:131
+msgid "Send Message"
+msgstr ""
+
+#: template-portfolio.php:76
+msgid "Filter"
+msgstr ""
+
+#: template-portfolio.php:81
+msgid "Filter by"
+msgstr ""
+
+#: template-portfolio.php:87
+msgid "Sort"
+msgstr ""
+
+#: template-portfolio.php:89
+msgid "Date"
+msgstr ""
+
+#: inc/options-framework.php:170
+#: inc/options-framework.php:369
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options-framework.php:240
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/options-framework.php:272
+msgid "Default options restored."
+msgstr ""
+
+#: inc/options-framework.php:313
+msgid "Options saved."
+msgstr ""
+
+#: inc/options-medialibrary-uploader.php:26
+msgid "Theme Options Media"
+msgstr ""
+
+#: inc/options-medialibrary-uploader.php:129
+msgid "Upload"
+msgstr ""
+
+#: inc/options-medialibrary-uploader.php:152
+msgid "View File"
+msgstr ""
+
+#: inc/options-medialibrary-uploader.php:289
+msgid "Gallery"
+msgstr ""
+
+#: inc/options-medialibrary-uploader.php:289
+msgid "Previously Uploaded"
+msgstr ""
+
+#: inc/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: inc/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: inc/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: inc/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: inc/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: inc/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: inc/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: inc/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: inc/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: inc/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: inc/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: inc/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:5
+msgid "Background Audio"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:5
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:21
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:34
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:5
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:26
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:48
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:65
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:86
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:93
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:5
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:35
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:54
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:72
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:97
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:118
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:126
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:148
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:156
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:173
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:181
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:198
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:206
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:228
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:236
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:252
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:266
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:275
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:291
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:301
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:307
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:322
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:342
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:350
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:364
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:384
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:396
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:404
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:416
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:437
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:451
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:471
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:485
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:4
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:16
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:26
+msgid "[+] more info"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:6
+msgid "Select an option to enable or disable background audio"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:21
+msgid "Audio Details"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:22
+msgid "Upload audio file in different formats for cross browser compatibility"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:24
+msgid "Mp3 Source"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:28
+msgid "Oga Source"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:34
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:48
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:93
+msgid "Background Enhancements"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:35
+msgid "Define your background audio enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:39
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:53
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:98
+msgid "<code>disable</code> Autoplay"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-audio-meta.php:42
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:101
+msgid "<code>disable</code> Loop"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:5
+msgid "Background Type"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:6
+msgid "Select background type for this entry"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:26
+msgid "Background Image"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:27
+msgid "Upload background image(s) and define caption(s) for them"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:31
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:116
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:146
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:196
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:226
+msgid "Del"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:34
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:118
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:148
+msgid "Url"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:38
+msgid "Caption"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:45
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:135
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:165
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:215
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:245
+msgid "Add"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:49
+msgid "Define your image background enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:56
+msgid "<code>display</code> Random"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:65
+msgid "Backround Video"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:66
+msgid "Upload video file in different formats for cross browser compatibility"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:68
+msgid "Poster Image"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:72
+msgid "Mp4 Source"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:76
+msgid "Ogv Source"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:80
+msgid "Webm Source"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:86
+msgid "Video Caption"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:87
+msgid "Enter caption for your background video defined above"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:94
+msgid "Define your video background enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:104
+msgid "<code>disable</code> Audio"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/bg-caption-meta.php:104
+msgid "(check to mute video audio and use seperate background audio)"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:5
+msgid "Shortcode Type"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:6
+msgid "Select shortcode type of your from list"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:35
+msgid "Video Type"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:36
+msgid "Select appropriate video type for shortcode"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:54
+msgid "Clip ID"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:55
+msgid "Provide unique ID of video"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:72
+msgid "Columns Layout"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:73
+msgid "Select columns layout from the list."
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:97
+msgid "Lightbox Script"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:98
+msgid "Select any lightbox script for your gallery images"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:119
+msgid "Enter url of your gallery image"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:126
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:156
+msgid "Link"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:127
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:157
+msgid "Define link for image provided above"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:149
+msgid "Enter url of your slider image"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:173
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:198
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:228
+msgid "Title"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:174
+msgid "Enter title for your toggle"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:181
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:206
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:236
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:384
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:404
+msgid "Content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:182
+msgid "Define custom text for toggle content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:199
+msgid "Enter title for your tab"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:207
+msgid "Define custom text for tab content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:229
+msgid "Enter title for your accordion"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:237
+msgid "Define custom text for accordion content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:252
+msgid "Map Type"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:253
+msgid "Select appropriate map type"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:266
+msgid "Map Address"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:267
+msgid "The address to show in the map"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:275
+msgid "Map Dimension"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:276
+msgid "Define dimension of chart in (width x height) format"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:291
+msgid "Zoom"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:292
+msgid "Zoom level - use number 1-19"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:301
+msgid "Info Window"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:302
+msgid "What to show in the popup, defaults to address."
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:307
+msgid "Map Enhancements"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:308
+msgid "Define your map enhancement settings."
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:313
+msgid "<code>show</code> Popup"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:322
+msgid "Button Color"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:323
+msgid "Select color of the button from the list"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:342
+msgid "Button Text"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:343
+msgid "Provide text for your button"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:350
+msgid "Button Link"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:351
+msgid "Provide absolute url (including http://) to which your button will link"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:364
+msgid "Box Color"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:365
+msgid "Select color of the box from the list"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:385
+msgid "Define custom text for box content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:396
+msgid "Source"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:397
+msgid "Provide source/author of this qoute"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:405
+msgid "Define text for quote content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:416
+msgid "Dropcap Color"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:417
+msgid "Select color of dropcap from the list"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:437
+msgid "Dropcap Text"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:438
+msgid "Define text for dropcap"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:451
+msgid "Highlight Color"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:452
+msgid "Select highlight color from the list"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:471
+msgid "Highlight Text"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:472
+msgid "Define text which is to be highlighted"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:485
+msgid "Divider Enhancements"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:486
+msgid "Define your divider enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:490
+msgid "<code>enable</code> Top Link"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/shortcode-meta.php:501
+msgid "Create Shortcode"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:4
+msgid "Read More Text"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:5
+msgid "Enter custom text for read more button, leave it blank to disable read more button"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:16
+msgid "Entry Custom Link"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:17
+msgid "Enter custom link (including http://) for this entry"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:26
+msgid "Entry Enhancement"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:27
+msgid "Define your blog entry enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:31
+msgid "<code>disable</code> Sidebar"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-entry-meta.php:31
+msgid "(check to have a full width single entry)"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:26
+msgid "Project Button Text"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:27
+msgid "Enter custom text for visit site button"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:38
+msgid "Project Link"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:39
+msgid "Enter link (including http://) of this project, leave it blank to disable visit site button"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:48
+msgid "Project Enhancements"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:49
+msgid "Define your project enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:53
+msgid "<code>disable</code> Slider"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/single-portfolio-meta.php:53
+msgid "(for single project page)"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:27
+msgid "Their is no option for this template to define."
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:35
+msgid "Custom Page Heading"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:36
+msgid "Define custom page heading which will be displayed on page header"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:43
+msgid "Page Sub Heading"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:44
+msgid "Define sub heading for this page, it will be shown just beside main page heading"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:56
+msgid "Template Configuration"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:57
+msgid "Define your template enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:61
+msgid "(check to have a full width page)"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:72
+msgid "Select category for your blog, by default blog will grab posts from all root level categories"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:87
+msgid "Entries Per Page"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:88
+msgid "Define how many entries to show per page, if you define -1 it will show all available entries on one page"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:103
+msgid "Blog Style"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:104
+msgid "Select appropriate layout for your blog"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:118
+msgid "Blog Enhancement"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:119
+msgid "Define your blog enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:125
+#: lib/classes/meta-panels/metaboxes/template-meta.php:233
+msgid "<code>enable</code> Full Content"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:125
+msgid "(only for standard layout)"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:134
+msgid "Gallery Style"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:135
+msgid "Select appropriate layout for your Gallery"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:154
+msgid "Images Per Page"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:155
+msgid "Define how many images to show per page, if you define -1 it will show all available images on one page"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:179
+msgid "Gallery Enhancements"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:180
+msgid "Define your gallery enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:184
+msgid "<code>enable</code> Masonry"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:184
+msgid "(to have gallery thumbnails with flexible height)"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:199
+msgid "Select category for your portfolio, by default portfolio will grab projects from all root level categories"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:211
+msgid "Select any lightbox script for your portfolio featured image"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:225
+msgid "Portfolio Enhancement"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:226
+msgid "Define your portfolio enhancement settings"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:230
+msgid "<code>enable</code> Filteration &amp; Sorting"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:242
+msgid "Email Address"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:243
+msgid "Provide email address to whom mail would be sent. By default admin email address is used"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:252
+msgid "Default Message"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:253
+msgid "Define message which would be appear just above the contact form when form is not submitted"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:255
+msgid "If you have any question, feel free to contact us through form below."
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:260
+msgid "Success Message"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:261
+msgid "Define message which would be appear when form is submitted succefullly"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:263
+msgid "Thanks! your email was sent successfully."
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:268
+msgid "Failure Message"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:269
+msgid "Define message which would be appear when form is not submitted succesfully"
+msgstr ""
+
+#: lib/classes/meta-panels/metaboxes/template-meta.php:271
+msgid "Apologies! but your message was not sent successfully."
+msgstr ""
+
+#: lib/classes/widgets/widget_blog_entries_list.php:36
+msgid "A widget that displays Blog entries."
+msgstr ""
+
+#: lib/classes/widgets/widget_blog_entries_list.php:47
+msgid "Blog Entries List"
+msgstr ""
+
+#: lib/classes/widgets/widget_blog_entries_list.php:161
+#: lib/classes/widgets/widget_comments.php:188
+#: lib/classes/widgets/widget_contact_info.php:143
+#: lib/classes/widgets/widget_flickr.php:118
+#: lib/classes/widgets/widget_twitter.php:119
+#: lib/classes/widgets/widget_video.php:121
+msgid "Title:"
+msgstr ""
+
+#: lib/classes/widgets/widget_blog_entries_list.php:167
+msgid "No. of Entries:"
+msgstr ""
+
+#: lib/classes/widgets/widget_blog_entries_list.php:173
+#: lib/classes/widgets/widget_comments.php:194
+msgid "Category:"
+msgstr ""
+
+#: lib/classes/widgets/widget_blog_entries_list.php:183
+msgid "Sort as:"
+msgstr ""
+
+#: lib/classes/widgets/widget_comments.php:36
+msgid "A widget that displays your site Latest Comments."
+msgstr ""
+
+#: lib/classes/widgets/widget_comments.php:47
+msgid "Custom Comments List"
+msgstr ""
+
+#: lib/classes/widgets/widget_comments.php:204
+msgid "No. of Comments:"
+msgstr ""
+
+#: lib/classes/widgets/widget_contact_info.php:36
+msgid "A widget that displays some Contact Information"
+msgstr ""
+
+#: lib/classes/widgets/widget_contact_info.php:47
+msgid "Contact Info"
+msgstr ""
+
+#: lib/classes/widgets/widget_contact_info.php:149
+msgid "Name:"
+msgstr ""
+
+#: lib/classes/widgets/widget_contact_info.php:155
+msgid "Email:"
+msgstr ""
+
+#: lib/classes/widgets/widget_contact_info.php:161
+msgid "Phone:"
+msgstr ""
+
+#: lib/classes/widgets/widget_contact_info.php:167
+msgid "Address:"
+msgstr ""
+
+#: lib/classes/widgets/widget_flickr.php:36
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: lib/classes/widgets/widget_flickr.php:47
+msgid "Flickr Photostream"
+msgstr ""
+
+#: lib/classes/widgets/widget_flickr.php:124
+msgid "Flickr ID:"
+msgstr ""
+
+#: lib/classes/widgets/widget_flickr.php:130
+msgid "Number of Photos:"
+msgstr ""
+
+#: lib/classes/widgets/widget_twitter.php:36
+msgid "A widget that displays latest tweets from Twitter."
+msgstr ""
+
+#: lib/classes/widgets/widget_twitter.php:47
+msgid "Twitter Stream"
+msgstr ""
+
+#: lib/classes/widgets/widget_twitter.php:125
+msgid "Username:"
+msgstr ""
+
+#: lib/classes/widgets/widget_twitter.php:131
+msgid "Number of Tweets:"
+msgstr ""
+
+#: lib/classes/widgets/widget_video.php:36
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: lib/classes/widgets/widget_video.php:47
+msgid "Custom Video Widget"
+msgstr ""
+
+#: lib/classes/widgets/widget_video.php:127
+msgid "Embed Code:"
+msgstr ""
+

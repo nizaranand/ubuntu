@@ -1,0 +1,118 @@
+/* Primary Navigation */
+ul#navigation ul {
+	top: 100px;
+}
+
+/* Side Meta */
+.side_meta {
+	left: -115px !important;
+}
+
+/* Form (General) */
+input {
+	padding-top: 7px;
+	padding-bottom: 5px;
+	line-height: 25px;
+}
+textarea {
+	overflow: auto;	
+}
+input[type="submit"], button, input[type="button"] {
+	height: 35px !important;
+	padding: 6px 12px 5px 12px;
+}
+
+form label {
+	top: 12px !important;
+}
+form span.field_icon {
+	left: 2px !important;
+	background: url("../../img/default_button_bg_0.80.png") repeat-x scroll center bottom;
+}
+form span.field_icon .arrow {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* IE 8 */
+}
+
+
+
+/* Password Form */
+.password_form p {
+	margin-top: 26px;
+}
+.password_form input {
+	width: 83.5%;
+}
+
+/* Error (404) Form */
+.error_404_form p {
+	margin-top: 26px;
+}
+.error_404_form input {
+	width: 95.3%;
+}
+
+/* Page Notice */
+.page_notice {
+	background: url(../../img/bg_white_0.02.png) repeat;
+}
+
+/* Widgets */
+.widget_search h3 {
+	background: none;
+}
+.search_button {
+	top: 2px;
+	right: 2px;
+}
+
+/* Gallery (Grid) */
+.with_sidebar .gallery_grid li:nth-child(5n+5) {
+	margin-right: 0;
+}
+.with_sidebar .gallery_grid li:nth-child(7n+7) {
+	margin-right: 2px;
+}
+.with_sidebar .gallery_grid li, .with_sidebar .gallery_grid li img {
+	width: 111px;
+}
+.with_sidebar .masonry_disabled.gallery_grid li, .with_sidebar .masonry_disabled.gallery_grid li img {
+	height: 80px;
+}
+
+
+
+/* Comments */
+#commentlist li .comment {
+	border: 1px solid #13181d;
+}
+#commentlist ul.children {
+	border-left: 1px solid #13181d;
+}
+
+input[type="submit"], button, input[type="button"] {
+	border: 0;
+}
+
+/* Tabs & Accordions */
+ul.tabs, .tabs_container .panes, .accordion .tab, .toggle .tab, .accordion .pane, .toggle .pane {
+	border: 1px solid #0e1317;
+}
+.accordion .tab:first-child, .accordion .tab:first-child, .toggle .tab:first-child {
+	border-top: 1px solid #0c1013;
+}
+ul.tabs li.current a {
+	color: #444444;
+}
+
+/* Table */
+.ms_table thead {
+	background: url(../../img/border.png) repeat;
+}
+.ms_table tbody tr {
+	background: url(../../img/bg_white_0.02.png) repeat;
+
+}
+.ms_table tbody tr:nth-child(2n+1) {
+	background: url(../../img/bg_black_0.10.png) repeat;
+}
+

@@ -1,0 +1,162 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Small Resolution 768 CSS
+/*-----------------------------------------------------------------------------------*/
+
+
+/* Layout */
+#wrapper {
+  width: 570px;
+}
+.site_header {
+  width: 520px;
+}
+
+/* Background Caption */
+#bg_slide_caption h2 {
+	padding: 16px 27px !important;
+	font-size: 19px;
+}
+
+
+/* Gallery */
+.gallery_two_column li, .gallery_three_column li, .gallery_four_column li, .gallery_five_column li,
+.gallery_three_column li:nth-child(3n+3), .gallery_five_column li:nth-child(5n+5) {
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+.gallery_two_column li, .gallery_two_column li img,
+.gallery_three_column li, .gallery_three_column li img,
+.gallery_four_column li, .gallery_four_column li img,
+.gallery_five_column li, .gallery_five_column li img {
+  width: 247px;
+}
+.masonry_disabled.gallery_two_column li, .masonry_disabled.gallery_two_column li img,
+.masonry_disabled.gallery_three_column li, .masonry_disabled.gallery_three_column li img ,
+.masonry_disabled.gallery_four_column li, .masonry_disabled.gallery_four_column li img, 
+.masonry_disabled.gallery_five_column li, .masonry_disabled.gallery_five_column li img {
+  height: 150px;
+}
+.masonry_disabled.gallery_two_column li:nth-child(2n+2), .masonry_disabled.gallery_three_column li:nth-child(2n+2),
+.masonry_disabled.gallery_four_column li:nth-child(2n+2), .masonry_disabled.gallery_five_column li:nth-child(2n+2) {
+	margin-right: 0;
+}
+.gallery_two_column li .thumb_highlight,
+.gallery_three_column li .thumb_highlight, 
+.gallery_four_column li .thumb_highlight, 
+.gallery_five_column li .thumb_highlight {
+	background: url("../img/thumb_glossy_3_col.png") no-repeat scroll 0 0 transparent;
+}
+
+
+
+.gallery_grid li, .gallery_grid li img {
+  width: 127px;
+}
+.masonry_disabled.gallery_grid li, .masonry_disabled.gallery_grid li img {
+  height: 95px;
+}
+.gallery_grid li:nth-child(3n+3) {
+  margin-right: 2px;
+}
+.gallery_grid li:nth-child(4n+4) {
+  margin-right: 0;
+}
+
+/* Galleria */
+#galleria{height:500px}
+
+
+/* Portfolio Navigation */
+#portfolio_nav .sort_wrap {
+	display: none;
+}
+
+/* Portfolio */
+.similiar_projects li, .similiar_projects li img {
+  height: 90px;
+  width: 127px;
+}
+
+/* Search */
+.search_form input {
+  width: 495px;
+}
+.error404 .search_button {
+	right: 4px;
+}
+
+
+/* Fields with or without sidebar */
+.with_sidebar input, input {
+	width: 497px;
+}
+.with_sidebar .name_field, .with_sidebar .email_field, .with_sidebar .url_field, .with_sidebar .password_field,
+input.name_field, input.email_field, input.url_field, input.password_field {
+	padding-left: 62px;
+	width: 449px;
+}
+.with_sidebar textarea, textarea {
+	width: 493px;
+}
+
+/* Entry Meta */
+.side_meta {
+	display: block !important;
+	left: -106px;
+}
+
+/* Back to Top */
+#back_to_top a {
+  right: 12px;
+}
+
+/* Fold */
+.compact {
+  top: 185px;
+}
+.compact, .full {
+  width: 570px;
+}
+
+/* Footer */
+.footer_extended {
+  padding: 25px 25px 0;
+}
+#smartphone_footer, #smart_menu {
+  width: 568px;
+}
+.footer_extended .widget ul.flickr_feed li img {
+  height: 73px !important;
+  width: 73px !important;
+}
+.footer_extended .widget ul.flickr_feed li:nth-child(3n+3) {
+  margin-right: 15px;
+}
+.footer_extended .widget ul.flickr_feed li:nth-child(6n+6) {
+  margin-right: 0;
+}
+
+.twitter_wrap {
+	height: 90px !important;
+}
+
+/* Divider */
+.divider.top_link {
+  width: 95%;
+}
+
+/* Password Form */
+.password_form p {
+	margin-top: 5px;
+}
+.password_form input {
+	width: 86.5%;
+}
+
+/* Error (404) Form */
+.error_404_form p {
+	margin-top: 5px;
+}
+.error_404_form input {
+	width: 96%;
+}

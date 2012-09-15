@@ -1,0 +1,64 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Small Resolution 320 CSS
+/*-----------------------------------------------------------------------------------*/
+
+/* Social Module */
+.home ul#social_nav {
+	left: 0;
+}
+
+/* Gallery (Grid) */
+.gallery_grid li:nth-child(7n+7) {
+	margin-right: 0;
+}
+
+.with_sidebar .gallery_grid li:nth-child(5n+5) {
+	margin-right: 0;
+}
+.with_sidebar .gallery_grid li:nth-child(7n+7) {
+	margin-right: 2px;
+}
+.with_sidebar .gallery_grid li, .with_sidebar .gallery_grid li img {
+  width: 111px;
+}
+.with_sidebar .masonry_disabled.gallery_grid li, .with_sidebar .masonry_disabled.gallery_grid li img {
+  height: 80px;
+}
+
+/* Background Loader */
+#bg_loader {
+  right: 20px;
+  top: 20px;
+}
+
+/* Side Meta */
+.side_meta {
+	display: block;
+}
+
+/* Widgets */
+.widget_search h3 {
+	background: none;
+}
+
+
+/* Background Loader */
+#smart_menu, .smartphone_footer {
+	display: none !important;
+}
+
+/* Form Fields - with Page Notice */
+form.password_form input {
+	width: 83.5%;
+}
+.error404 .search_form input {
+	width: 95%;
+}
+.error404 .search_form p {
+  margin-top: 26px;
+}
+
+.one_half.smart_full_width {
+	margin-bottom: 0;
+}
+

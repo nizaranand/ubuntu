@@ -1,0 +1,258 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Small Resolution 320 CSS
+/*-----------------------------------------------------------------------------------*/
+
+/* Layout */
+#wrapper {
+  width: 300px;
+}
+.site_header {
+  width: 250px;
+}
+
+/* Fold */
+.compact {
+  top: 185px;
+}
+.compact, .full {
+  width: 300px;
+}
+
+/* Entry Meta */
+.bar_meta li a.category, .side_meta {
+	display: none !important;
+}
+
+/* Blog - List Style */
+.blog_list .flex-container, .blog_list .blog_entry .flex-container li .thumb_img {
+  float: none;
+  width: 100%;
+  margin-right: 0;
+}
+.blog_list .flex-container {
+  margin-bottom: 25px;
+}
+.blog_list .flex-container, .blog_list .flex-container ul.slides, .blog_list .flex-container ul.slides li .thumb_img {
+  height: 150px;
+  overflow: hidden !important;
+}
+.blog_list .has_featured_image .entry_desc, .blog_list .has_featured_image .entry_header {
+	margin-left: 0;
+}
+
+.blog_list .blog_entry .simple_meta {
+	display: none;
+}
+.blog_list .blog_entry .bar_meta {
+	display: block !important;
+}
+.blog_list .blog_entry .flex-container {
+	margin-top: 0;
+}
+.blog_list .blog_entry .flex-container ul.slides {
+	margin-top: 25px;
+}
+
+/* Blog - Magazine Style */
+.blog_magazine .blog_entry .side_meta {
+	display: none !important;
+}
+
+
+/* Gallery */
+.gallery_two_column li, .gallery_three_column li, .gallery_four_column li, .gallery_five_column li {
+	margin-bottom: 20px;
+	margin-right: 0;
+}
+.gallery_two_column li, .gallery_two_column li img,
+.gallery_three_column li, .gallery_three_column li img,
+.gallery_four_column li, .gallery_four_column li img,
+.gallery_five_column li, .gallery_five_column li img {
+  width: 248px;
+}
+.masonry_disabled.gallery_two_column li, .masonry_disabled.gallery_two_column li img,
+.masonry_disabled.gallery_three_column li, .masonry_disabled.gallery_three_column li img ,
+.masonry_disabled.gallery_four_column li, .masonry_disabled.gallery_four_column li img, 
+.masonry_disabled.gallery_five_column li, .masonry_disabled.gallery_five_column li img {
+  height: 150px;
+}
+.gallery_two_column li .thumb_highlight,
+.gallery_three_column li .thumb_highlight, 
+.gallery_four_column li .thumb_highlight, 
+.gallery_five_column li .thumb_highlight {
+	background: url("../img/thumb_glossy_3_col.png") no-repeat scroll 0 0 transparent;
+}
+
+
+.gallery_grid li, .gallery_grid li img {
+  width: 123px;
+}
+.masonry_disabled.gallery_grid li, .masonry_disabled.gallery_grid li img {
+  height: 92px;
+}
+.gallery_grid li:nth-child(2n+2) {
+  margin-right: 0;
+}
+
+/* Portfolio Navigation */
+#portfolio_nav .filteration_wrap {
+	display: none;
+}
+#portfolio_nav .sort_wrap {
+	float: none;
+}
+#portfolio_nav > .sort_by_cat > span {
+  margin-right: 17px;
+}
+
+/* Lightbox */
+#fancybox-title-over {
+	display: none;
+}
+
+/* Search */
+.search_form input {
+  width: 227px !important;
+}
+.error404 .search_button {
+	right: 2px;
+}
+
+
+/* Fields with or without sidebar */
+.with_sidebar input, input {
+	width: 227px;
+}
+.with_sidebar .name_field, .with_sidebar .email_field, .with_sidebar .url_field, .with_sidebar .password_field,
+input.name_field, input.email_field, input.url_field, input.password_field {
+	padding-left: 62px;
+	width: 178px;
+}
+.with_sidebar textarea, textarea {
+	width: 223px;
+}
+
+/* Galleria */
+#galleria{height:300px}
+
+
+/* Portfolio */
+#portfolio .flexslider .slides > li {
+	height: 155px;
+}
+#portfolio .site_entry_two_col_full {
+	margin-bottom: 40px;
+}
+
+ul.similiar_projects li, ul.similiar_projects li img {
+	height: 92px;
+	width: 122px;
+}
+
+
+/* Columns */
+.one_half,
+.one_third,
+.two_third,
+.three_fourth,
+.one_fourth,
+.one_fifth,
+.two_fifth,
+.three_fifth,
+.four_fifth,
+.one_sixth,
+.five_sixth {
+	width: 100% !important;
+	position: relative;
+	margin-right: 0;
+}
+
+/* Comments */
+#comments_list li ul.children li ul.children li ul.children {
+	padding-left: 0;
+	border-left: 0;
+}
+
+/* Background Caption */
+#bg_slide_caption {
+  bottom: 20px;
+}
+#bg_slide_caption h2 {
+	font-size: 18px;
+	padding: 15px 20px !important;
+}
+
+
+/* Background Navigation */
+ul#bg_nav {
+	bottom: 21%;
+}
+
+/* Background Pagination */
+.home ul#bg_pagination {
+	display: none;
+}
+
+/* Footer */
+#smartphone_footer, #smart_menu {
+  width: 300px;
+}
+
+.footer_extended {
+  padding: 25px 25px 0 25px;
+}
+
+.footer_extended .widget ul.flickr_feed li img {
+	width: 72px;
+	height: 72px;
+}
+
+/* Table */
+table.ms_table, .ms_table thead, .ms_table tbody, .ms_table th, .ms_table td, .ms_table tr { 
+	/* Force table to not be like tables anymore */
+	display: block;
+}
+.ms_table thead tr { 
+	/* Hide table headers (but not display: none;, for accessibility) */
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
+.ms_table tbody tr {
+	background: rgba(0, 0, 0, 0.1);
+	line-height: 40px;
+}
+.ms_table tbody tr:nth-child(2n+1) {
+	background: rgba(255, 255, 255, 0.04);
+	line-height: 40px;
+}
+.ms_table tbody td { 
+	/* Behave  like a "row" */
+	border: none;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+	position: relative;
+	padding-left: 50%;
+}
+.ms_table tbody td:before {
+	/* Now like a table header */
+	position: absolute;
+	/* Top/left values mimic padding */
+	top: 6px;
+	left: 6px;
+	width: 45%;
+	padding-right: 10px;
+	white-space: nowrap;
+}
+.ms_table tbody td:before { 
+	/* Label the data */
+	content: attr(data-label);
+}
+.ms_table tfoot {
+  display: block;
+  width: 100%;
+}
+
+/* Divider */
+.divider.top_link {
+  width: 90%;
+}

@@ -1,0 +1,13 @@
+.current-menu-item a, .current-menu-ancestor a, .sfHover a, ul#navigation a:hover, .side_meta {
+	background: #6C7F17;
+}
+.side_meta span.arrow {
+	border-left-color: #6C7F17;
+}
+ul#navigation ul, ul#bg_nav, ul#bg_nav li#prev_slide:hover, ul#bg_nav li#next_slide:hover, ul#bg_nav li#toggle_slide:hover, ul#bg_nav li#toggle_audio:hover {
+	background-color: #6C7F17;
+	background-color: rgba(108, 127, 23, 0.92);
+}
+.portfolio_entry ul.default_list li:before {
+	color: #6C7F17;
+}

@@ -1,0 +1,208 @@
+/* Breadcrumb Font Size - Fix */
+#breadcrumb h3 {
+	font-size: 16px !important;
+	height: 67px !important;
+}
+
+/* Day Box - Fix */
+.cufon-active .day-box {
+    line-height: 68px !important;
+}
+
+/* Cufon Navigation Dropdown - Fix */
+.cufon-active ul#navigation a {
+	background-position: right 3px;
+}
+
+
+/* Audio Player - Fix */
+#audio_player {
+	visibility: hidden;
+}
+
+/* Meta Icon - Fix */
+.meta-icon {
+	display: none;
+}
+
+/* Meta Box Border - Fix */
+.meta-box span {
+	line-height: 15px !important;
+	padding: 6px 0;
+}
+.author-span-hover {
+	padding-top: 23px !important;
+}
+
+
+/* Caption - Fix */
+#caption {
+	z-index: 9999 !important;
+}
+
+/* BG Thumbs - Fix */
+#site_bg_thumbs {
+	padding-bottom: 11px !important;
+}
+
+/* Linked Heading - Fix */
+.blog h2:hover, .blog_single h2, .gallery h2, .gallery_single h2 {
+	display: inline !important;
+	zoom: 1 !important;
+}
+
+/* Section Heading Font Size - Fix */
+.section_heading h3 {
+	font-size: 16px !important;
+}
+
+/* Footer - Fix */
+#footer  p {
+	float: left;
+}
+
+/* Slider Pagination - Fix */
+.slider-nav > ul.slider-pagination {
+    bottom: 12px;
+}
+
+/* Blog Pagination - Fix */
+.site-entry-1-col-side .thumb-nav > ul.thumb-pagination {
+	bottom: 30px;
+}
+
+/* Gallery Pagination - Fix */
+.site-entry-1-col-full .thumb-nav > ul.thumb-pagination, .site-entry-2-col-full .thumb-nav > ul.thumb-pagination, .site-entry-3-col-full .thumb-nav > ul.thumb-pagination {
+	bottom: 26px;
+}
+
+/* Make Pagination Inline - Fix */
+.slider-nav ul.slider-pagination li, .slider-nav ul.slider-pagination li a {
+	display: inline;
+}
+
+/* Post Meta - Fix */
+.post-meta span.comments {
+	margin-top: -20px !important;
+}
+
+/* Close Project Link - Fix */
+p.close {
+    top: 0;
+}
+
+/* Loading Icon - Fix */
+p.close, p.spinner {
+    top: 4px;
+}
+
+/* Text Area - Fix */
+textarea {
+	overflow: auto;	
+}
+
+
+/* Read More - Fix */
+.continue_reading a {
+	display: inline-block;
+}
+
+/* Pagination - Fix */
+ul#pagination li.next a {
+	background-repeat: no-repeat;
+    background-position: -80px 0;
+}
+ul#pagination li.next a:hover, ul#pagination li.next:hover {
+    background-position: -80px -20px;
+}
+
+/* Form Label - Fix */
+form label, #search-form label {
+    top: 10px;
+}
+form span.error {
+    top: 9px;
+}
+
+/* 1 Col Gallery Desc. - Fix */
+.entry-detail-1-col-full {
+	zoom: 1;
+	display: inline;
+}
+
+/* Button Font - Fix */
+button, input#submit {
+	font-weight: normal;
+	padding: 5px 0;
+}
+
+
+/* Button Border - Fix */
+form span.button, input#submit {
+    border: 1px solid #E0E0E0;
+}
+button {
+	border: 0;
+}
+
+/* Custom Button - Fix */
+.css_button {
+	display: inline-block;
+    filter: alpha(opacity=100); /* IE 4, 5, 6 and 7 */
+}
+
+/* Google Map - Fix */
+.google_map_wrapper img {
+    filter: alpha(opacity=100) !important; /* IE 4, 5, 6 and 7 */
+}
+
+/* Custom Box - Fix */
+.css_box {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF) !important;   /* IE6 and 7 */      
+}
+
+/* Footer - Fix */
+#footer{
+	margin-top: 6px !important;
+	margin-bottom: 20px !important;
+}
+
+/* Social Module - Fix */
+ul#site_social_module, ul#bg_slide_nav {
+	padding: 5px 12px 12px 12px !important;
+	margin-bottom: 20px !important;
+	bottom: 0 !important;
+}
+
+
+/* Search Button - Fix */
+.search_button {
+	top: 5px !important;
+}
+
+/* Comment - Fix */
+.comment-meta {
+	padding-bottom: 16px !important;
+	margin-top: -78px;
+}
+
+#commentslist li h5 {
+	line-height: 10px !important;
+	margin-bottom: 0;
+}
+#commentslist li span.date {
+	line-height: 46px !important;
+}
+
+#commentslist li span.reply-link {
+	padding: 5px 8px !important;
+	margin-top: -5px !important;
+	margin-right: -8px !important;
+}
+
+#commentslist li .comment-replies span {
+	padding: 5px 8px !important;
+	margin-top: -8px !important;
+	margin-right: -11px !important;
+}
+
