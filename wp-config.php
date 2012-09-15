@@ -19,9 +19,9 @@
 
 if ($_SERVER["HTTP_HOST"] === 'ubuntu.onlinepitstop.nl') {
 	$dbname = 'ubuntu';
-	$dbuser = 'root';
-	$dbpassword = '';
-	$dbhost = '';
+	$dbuser = 'ubuntu';
+	$dbpassword = ':K9JcwIKL*QR';
+	$dbhost = 'localhost';
 } else if ($_SERVER["HTTP_HOST"] === 'ubuntu.local') {
 	$dbname = 'ubuntu';
 	$dbuser = 'root';
